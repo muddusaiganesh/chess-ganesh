@@ -6,7 +6,7 @@
 </head>
 <body>
 <font size=50>
-<table border=2px font-size=50px>
+<table border=3px font-size=50px>
 <tr>
 <td height=50 width=50 bgcolor=white><font size=50px> &#9820 </font></td>
 <td height=50 width=50 bgcolor=#A0B1A2><font size=50px>&#9822</td>
